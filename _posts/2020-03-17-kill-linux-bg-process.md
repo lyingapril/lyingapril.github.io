@@ -2,7 +2,8 @@
 layout: post
 title:  "终止 Linux 后台运行程序的方法和命令"
 date:   2020-03-17 10:38:38 +0800
-categories: post
+categories: Post
+tags: [linux, shell, regexp-syntax]
 ---
 
 　　后台运行了得停止呀，怎么找呢？

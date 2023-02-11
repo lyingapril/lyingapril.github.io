@@ -2,7 +2,9 @@
 layout: post
 title:  "Welcome to My Blog!"
 date:   2019-03-15 10:20:38 +0800
-categories: post
+categories: Post
+tags: [getting started]
+
 ---
 ```php
 <?php

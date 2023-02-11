@@ -2,7 +2,8 @@
 layout: post
 title:  "MySQL 事务"
 date:   2020-04-04 20:49:38 +0800
-categories: post
+categories: Post
+tags: [mysql]
 ---
 
 　　MySQL 事务主要用于处理操作量大，复杂度高的数据。一般来说，事务是必须满足4个条件（**ACID**）：：原子性（**Atomicity**，或称不可分割性）、一致性（**Consistency**）、隔离性（**Isolation**，又称独立性）、持久性（**Durability**）。 

@@ -2,9 +2,10 @@
 layout: post
 title:  "Windows 和 Linux 换行符的区别"
 date:   2020-03-26 09:00:35 +0800
-categories: post
+categories: Post
+tags: [windows, linux, shell]
 ---
-　　之前提到<[在 Linux 后台运行脚本的方法和命令](https://aunhappy.github.io/post/2020/03/02/methods-and-commands-for-running-scripts-in-the-Linux-background.html)>，今天运行一个脚本的时候发现了不同寻常的地方。
+　　之前提到<[在 Linux 后台运行脚本的方法和命令](https://lyingapril.github.io/post/2020/03/02/methods-and-commands-for-running-scripts-in-the-Linux-background.html)>，今天运行一个脚本的时候发现了不同寻常的地方。
 
 　　以脚本名 `jobs.sh` 为例，执行如下命令
 

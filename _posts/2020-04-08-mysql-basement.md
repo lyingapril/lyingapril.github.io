@@ -2,7 +2,8 @@
 layout: post
 title:  "MySQL优化(一) -- 基本知识以及增删改查"
 date:   2020-04-08 20:49:38 +0800
-categories: post
+categories: Post
+tags: mysql
 ---
 　　MySQL的优化主要集中体现在锁的优化上。
 　　说到锁，就回忆起大学自学《计算机操作系统》课程里面讲到的死锁必要条件的第一个条件，摘录如下：

@@ -2,7 +2,9 @@
 layout: post
 title:  "MySQL 编码"
 date:   2020-04-25 14:07:38 +0800
-categories: post
+categories: Post
+tags: mysql
+
 ---
 　　因为历史遗留问题，MySQL 中的 utf8 编码并不是真正的 UTF-8，而是阉割版的，最长只有3个字节。
 

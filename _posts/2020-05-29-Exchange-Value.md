@@ -2,7 +2,8 @@
 layout: post
 title:  "交换两个变量的值"
 date:   2020-05-29 14:51:38 +0800
-categories: post
+categories: Post
+tags: php
 ---
 
 　　这时候，第一时间想到的是，借助第三个变量来实现变量交换。

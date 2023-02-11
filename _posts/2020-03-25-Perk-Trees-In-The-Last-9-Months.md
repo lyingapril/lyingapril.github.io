@@ -2,7 +2,8 @@
 layout: post
 title:  "最近9个月技能树点亮"
 date:   2020-03-25 12:49:38 +0800
-categories: post
+categories: Post
+tags: [job, front-end, back-end, sports]
 ---
 　　上班了这么久，是时候总结自己的技能了。
 

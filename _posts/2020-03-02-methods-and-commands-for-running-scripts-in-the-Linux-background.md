@@ -2,7 +2,8 @@
 layout: post
 title:  "在 Linux 后台运行脚本的方法和命令"
 date:   2020-03-02 19:03:38 +0800
-categories: post
+categories: Post
+tags: [shell, linux]
 ---
 
 　　有个 sh 脚本没法用宝塔的定时任务来运行，特意学习 Linux 原生的办法后台运行脚本。

@@ -2,7 +2,8 @@
 layout: post
 title:  "在 WIN10 上安装 Jekyll "
 date:   2019-03-18 17:48:38 +0800
-categories: post
+categories: Post
+tags: [jekyll, github pages, ruby]
 ---
 　　刚开始写GitHub Pages，不知道怎么写目录，生成多个静态页。发现GitHub Pages用的是Jekyll编译的。为了方便写好GitHub Pages，在的win10上尝试安装了一把Jekyll。
 
@@ -83,7 +84,7 @@ plugins:
 layout: post
 title:  "在win10上安装jekyll"
 date:   2019-03-18 17:48:38 +0800
-categories: post
+categories: Post
 ---
 ```
 

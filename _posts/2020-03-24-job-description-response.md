@@ -2,7 +2,8 @@
 layout: post
 title:  "对红蓝 CP 职位描述的回应"
 date:   2020-03-24 21:48:38 +0800
-categories: post
+categories: Post
+tags: [job, resume]
 ---
 　　看上了红蓝 CP 的 PHP 工程师岗位。
 

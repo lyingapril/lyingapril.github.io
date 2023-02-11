@@ -2,7 +2,8 @@
 layout: post
 title:  "Starting Yii"
 date:   2020-03-26 11:27:38 +0800
-categories: post
+categories: Post
+tags: [yii2, php]
 ---
 　　~~Getting Started!~~ 
 

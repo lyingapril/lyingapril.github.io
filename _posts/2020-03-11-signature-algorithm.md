@@ -2,7 +2,8 @@
 layout: post
 title:  "几种支付签名生成方法"
 date:   2020-03-11 16:05:38 +0800
-categories: post
+categories: Post
+tags: [php, sign]
 ---
 
 　　总结最近用过几个签名方法。

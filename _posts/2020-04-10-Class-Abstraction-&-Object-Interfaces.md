@@ -2,7 +2,8 @@
 layout: post
 title:  "抽象类和对象接口"
 date:   2020-04-10 10:23:38 +0800
-categories: post
+categories: Post
+tags: laravel
 ---
 　　写业务基本上是离不开抽象类和对象接口的，真到面试的时候，又哑口无言。
 

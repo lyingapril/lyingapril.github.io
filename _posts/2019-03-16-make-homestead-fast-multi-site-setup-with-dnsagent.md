@@ -2,7 +2,8 @@
 layout: post
 title:  "借助 DnsAgent，让 HomeStead 快捷实现多站点设置"
 date:   2019-03-16 10:21:38 +0800
-categories: post
+categories: Post
+tags: [homestead, dnsagent]
 ---
 &emsp;&emsp;众所周知，HomeStead可以实现多站点的功能，但是每次都需要修改本机的hosts文件，实在是太不方便了，借助DnsAgent的域名解析功能，轻松实现多站点管理。
 

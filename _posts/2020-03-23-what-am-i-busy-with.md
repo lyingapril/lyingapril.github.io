@@ -2,7 +2,8 @@
 layout: post
 title:  "最近在忙什么？"
 date:   2020-03-23 05:48:38 +0800
-categories: post
+categories: Post
+tags: [php, college, mysql, python]
 ---
 
 　　最近在忙什么？瞎忙吗？不不不！
